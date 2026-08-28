@@ -1,0 +1,17 @@
+[
+  {
+    "query": "Who should I reach out to at RedStone Energy?",
+    "expected_contains": [
+      "Jordan Lee",
+      "Priya Shah"
+    ],
+    "expected_tool": null
+  },
+  {
+    "query": "What is our travel reimbursement policy?",
+    "expected_contains": [
+      "30 days"
+    ],
+    "expected_tool": null
+  }
+]
